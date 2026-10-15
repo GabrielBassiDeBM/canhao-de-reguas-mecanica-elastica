@@ -4,6 +4,8 @@
 
 Gabriel Bassi — Equipe Brasil, International Young Physicists' Tournament (IYPT) 2025, Problema 7 ("Ruler Cannon").
 
+**[Ler o artigo online](https://gabrielbassidebm.github.io/canhao-de-reguas-mecanica-elastica/)** · [Abrir o PDF](main.pdf) · [Baixar o PDF](https://github.com/GabrielBassiDeBM/canhao-de-reguas-mecanica-elastica/raw/main/main.pdf)
+
 ## Resumo
 
 Um projétil redondo comprimido entre duas réguas presas em uma extremidade é ejetado em alta velocidade quando uma força extra é aplicada sobre elas. Cada régua é modelada como uma viga em balanço de Euler–Bernoulli, formulada com colchetes de Macaulay,
@@ -41,12 +43,27 @@ $$
 
 As previsões são comparadas com medidas feitas com um lançador motorizado e um sensor de velocidade por barreiras de laser, usando esferas e discos impressos em 3D.
 
+## O artigo
+
+O artigo completo, página a página. Para ler com zoom ou baixar, use os links no topo.
+
+![Página 1](paginas/pagina-01.jpg)
+![Página 2](paginas/pagina-02.jpg)
+![Página 3](paginas/pagina-03.jpg)
+![Página 4](paginas/pagina-04.jpg)
+![Página 5](paginas/pagina-05.jpg)
+![Página 6](paginas/pagina-06.jpg)
+![Página 7](paginas/pagina-07.jpg)
+![Página 8](paginas/pagina-08.jpg)
+
 ## Arquivos
 
 - `main.tex`: fonte LaTeX (REVTeX 4.2, português)
 - `references.bib`: referências
 - `figures/`: figuras
 - `main.pdf`: artigo compilado
+- `paginas/`: páginas do artigo em imagem
+- `index.html`: página de leitura (GitHub Pages)
 
 ## Compilação
 
